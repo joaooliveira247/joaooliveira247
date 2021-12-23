@@ -1,6 +1,6 @@
 ### Hi, I'm João Oliveira
 
-- 🌱 I’m currently learning Python, Django and Mysql
+- 🌱 I’m currently learning Python, Django and MySQL
 
 <div>
   <a href="https://github.com/joaooliveira247">
