@@ -4,9 +4,12 @@
 
 ---
 
-<img width=380 src="https://github-readme-stats.vercel.app/api?username=joaooliveira247&theme=cobalt2&show_icons=true&include_all_commits=true&count_private=true"/>
-<img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaooliveira247&&layout=compact&langs_count=16&theme=cobalt2"/>
+<div align="center">
+  <img width=450  src="https://github-readme-stats.vercel.app/api?username=joaooliveira247&theme=cobalt2&show_icons=true&include_all_commits=true&count_private=true"/>
 
+
+  <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaooliveira247&&layout=compact&langs_count=16&theme=cobalt2"/>
+</div>
 
 ---
 
