@@ -1,6 +1,6 @@
 ### Hi, I'm João Oliveira
 
-- 🌱 I’m currently learning Python, Django and MySQL
+- 🌱 I’m currently learning Python, Rust, Django and MySQL
 
 ---
 
@@ -14,6 +14,7 @@
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Fastapi](https://img.shields.io/badge/fastapi%20-00766A.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
