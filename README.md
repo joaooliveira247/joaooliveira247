@@ -1,16 +1,7 @@
 ### Hi, I'm João Oliveira
 
 - 🧑‍💻 Data Engineer
-- 🌱 I’m currently learning Rust and cloud(AWS and Google Cloud)
-- 🐍 I'm always learning something new in Python
-- 📆 25 years
 - 🌎 Rio de Janeiro - Brazil
-
----
-
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=joaooliveira247&theme=shades-of-purple&date_format=j%20M%5B%20Y%5D&mode=weekly"/></a>
-</p>
 
 ---
 🧑‍💻 __I manly code using__
