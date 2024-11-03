@@ -7,7 +7,7 @@
 🧑‍💻 __I manly code using__
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 🧰 __My toolbox includes__
 
@@ -25,11 +25,8 @@
 
 - ☁️ Cloud
 
-    Learning more yet.
-
-    ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+    ![AZURE](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoft%20azure&logoColor=blue&labelColor=FFFFFF&link=https%3A%2F%2Fimages.app.goo.gl%2FK7PN1jYJd57x4q7A8)
 
 
 
@@ -38,12 +35,14 @@
 
     ![Fastapi](https://img.shields.io/badge/fastapi%20-00766A.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
     ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+    ![Gin](https://img.shields.io/badge/-Gin-008ECF?style=for-the-badge&logo=gin&logoColor=white)
 
 - 🪛 Others
 
     ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
     ![docker](https://img.shields.io/badge/Docker-22ADF6?style=for-the-badge&logo=docker&logoColor=white)
+    ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 ---
 
